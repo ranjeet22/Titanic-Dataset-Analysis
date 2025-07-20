@@ -67,7 +67,7 @@ titanic-analysis/
 
 ## 📷 Sample Plots
 
-> *You can add images of your visualizations here if stored locally in an `/images` folder or generated dynamically.*
+> <img width="568" height="432" alt="Image" src="https://github.com/user-attachments/assets/bbf6ba39-c0c8-42cd-ae21-a39cfcc9d893" />
 
 ```python
 # Example (in notebook)
