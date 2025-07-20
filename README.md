@@ -67,6 +67,7 @@ titanic-analysis/
 
 ## 📷 Sample Plots
 
+> <img width="515" height="483" alt="Image" src="https://github.com/user-attachments/assets/14b3b99a-7aae-44ff-b443-f1e17cbf8981" />
 > <img width="568" height="432" alt="Image" src="https://github.com/user-attachments/assets/bbf6ba39-c0c8-42cd-ae21-a39cfcc9d893" />
 > <img width="560" height="432" alt="Image" src="https://github.com/user-attachments/assets/48e2a5aa-208a-4d49-8ba8-fd76bdd96634" />
 ```
