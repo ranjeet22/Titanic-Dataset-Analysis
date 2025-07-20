@@ -71,7 +71,6 @@ titanic-analysis/
 > <img width="568" height="432" alt="Image" src="https://github.com/user-attachments/assets/bbf6ba39-c0c8-42cd-ae21-a39cfcc9d893" />
 > <img width="568" height="432" alt="Image" src="https://github.com/user-attachments/assets/27cf31e3-fd19-4e0a-893f-538976c99a6a" />
 > <img width="560" height="432" alt="Image" src="https://github.com/user-attachments/assets/48e2a5aa-208a-4d49-8ba8-fd76bdd96634" />
-```
 ---
 ## 🧼 Data Preprocessing
 Handled missing values
