@@ -68,12 +68,7 @@ titanic-analysis/
 ## 📷 Sample Plots
 
 > <img width="568" height="432" alt="Image" src="https://github.com/user-attachments/assets/bbf6ba39-c0c8-42cd-ae21-a39cfcc9d893" />
-
-```python
-# Example (in notebook)
-sns.countplot(x='Survived', data=df)
-plt.title('Survived vs Not Survived')
-plt.show()
+> <img width="560" height="432" alt="Image" src="https://github.com/user-attachments/assets/48e2a5aa-208a-4d49-8ba8-fd76bdd96634" />
 ```
 ---
 ## 🧼 Data Preprocessing
